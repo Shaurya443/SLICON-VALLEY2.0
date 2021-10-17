@@ -54,12 +54,7 @@ function setup() {
   
   
 
-  bey1.depth = launcher1.depth;
-   launcher1.depth = launcher1.depth+1;
-
-   bey2.depth = launcher2.depth;
-   launcher2.depth = launcher2.depth+1;
-
+ 
 }
 
 function draw() {
